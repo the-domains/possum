@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Possum]]></title>
+        <description><![CDATA[Possum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 20:15:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Components]]></title>
+            <description><![CDATA[<article><h1>Components</h1><p>Position Keeping - Straight Through Processing - Jibe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a884192c2e8744835cd1920491d2ee2e645c878.jpg"></article>]]></description>
+            <link>http://integratedcomponentsoftware.com/components/</link>
+            <guid isPermaLink="false">d40ca6be-27ce-4a5a-8ebf-de9255e2be95</guid>
+            <pubDate>Thu, 04 Feb 2016 20:14:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
