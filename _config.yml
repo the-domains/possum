@@ -1,6 +1,6 @@
 name: Possum
 favicon: null
-layout_spectrum: 0.12700980016961694
+layout_spectrum: 0.24937
 typography_spectrum: 0.7633657527621835
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7562763607129455
-  lightness: 0.5594432763755322
+  brandStrength: 0.8125
+  lightness: 0.3125
   saturation: 0.7297670538537204
   rhythmicContrast: 0.18555737100541592
 purpose: []
